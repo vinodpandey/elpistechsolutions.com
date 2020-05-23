@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Teachers",
+    "description": "Learning & assessment tools. Save time on creating assessments and increase efficiency.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Students",
+    "description": "Personalized learning app. Access study material prepared by expert teachers and followed by toppers. Learn, practice, track progress & improve performance.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Parents",
+    "description": "Get involved in child's studies. Track and monitor performance.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
