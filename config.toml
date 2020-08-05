@@ -35,11 +35,21 @@ theme = "hugo-serif-theme"
 
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
-    url = "/"
+      name = "Home"
+      url = "/"
       weight = 1
 
   [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
+      name = "Contact"
+      url = "/contact/"
       weight = 2
+
+  [[menu.footer]]
+      name = "Terms of Service"
+      url = "/tos/"
+      weight = 3
+      
+  [[menu.footer]]
+      name = "Privacy Policy"
+      url = "/privacy-policy/"
+      weight = 4        
