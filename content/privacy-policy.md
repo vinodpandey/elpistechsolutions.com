@@ -56,3 +56,8 @@ Elpis Technology Solutions (P) Ltd is not expected to offend anyone. However if
 ### **Contact us**
 
 If you have any questions about this privacy statement, the practices of this site or your dealings with this website contact us at elpistechsolutions@gmail.com.
+
+### **Data Deletion Request Instructions**
+
+Please send email to support@mycbseguide.com with subject: "Request for account deletion". Our team will delete all your account related data from our servers.
+
