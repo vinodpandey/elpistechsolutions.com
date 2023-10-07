@@ -6,24 +6,25 @@ menu: 'main'
 These Terms are an agreement between you and ELPIS TECHNOLOGY SOLUTIONS PRIVATE LIMITED and applicable to all the websites and mobile apps owned by the company as stated below:
 
 *   https://mycbseguide.com
-*   https://onlineteachers.co.in
-*   https://cbseforum.com
+*   https://examin8.com
 *   https://elpistechsolutions.com
-*   https://elpiscart.com
 *   https://play.google.com/store/apps/details?id=in.techchefs.MyCBSEGuide
+*   https://play.google.com/store/apps/details?id=com.examin8.exam
+
 
 About our Services
 
-1.  **Acceptance of Terms.** When you complete the member registration process, you agree to these Terms. This agreement sets out the legally binding terms for your membership. Your continued use of our services signifies your acceptance of the changes, effective upon notice to you as a member. These Terms will always be available to users on this page for you to read. When using free services offered through the site’s third-party service providers, such as email, you will be subject to terms posted by these third-party service providers. Registration for a Site signifies your agreement to those additional terms. Also, by opting into third-party offers, you will be subject to terms posted by these third-parties. Opting in to these offers signifies your agreement to those additional terms.
-2.  **Eligibility** You must be of 13 years or above to register as a member of the site or use this Site. Membership in the Service is void where prohibited. By using this Site, you represent and warrant that you have the right, authority, and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement.
-3.  **Email Products Selection During registration**, you will be provided the option of receiving Mailers which will let you know when new members from your school have registered or other similar mailers. Many people appreciate these updates. You will also have the option of receiving a variety of periodic emails. The option to receive any of these email products is completely yours. If at any time, you do not wish to continue to receive any of these emails from us, you may remove yourself from the list by following the instructions at the bottom of each email. It is your responsibility to make sure we always have your current email address. If we do not, we will not be able to pass information from your friends to you (which is one of the main purposes of our site). We will also keep you advised of new functionality and new product offerings via email from time to time.
+1.  **Acceptance of Terms.** When you complete the member registration process, you agree to these Terms. This agreement sets out the legally binding terms for your membership. Your continued use of our services signifies your acceptance of the changes, effective upon notice to you as a member. These Terms will always be available to users on this page for you to read. When using free services offered through the site’s third-party service providers, such as email, you will be subject to terms posted by these third-party service providers. Registration for a Site signifies your agreement to those additional terms. Also, by opting into third-party offers, you will be subject to terms posted by these third parties. Opting into these offers signifies your agreement to those additional terms.
+2.  **Eligibility** You must be 18 years or above to register as a member of the site or use this Site. Membership in the Service is void where prohibited. By using this Site, you represent and warrant that you have the right, authority, and capacity to enter into this Agreement and to abide by all of the terms and conditions of this Agreement.
+3.  **Parental Consent** For individuals below 18 years of age, the consent of the parent or the legal guardian is mandatory. If you are below 18 years old, your parents are required to create an account for you. Consent may be withdrawn at any point in time by deleting the account. 
+4.  **Email Products Selection During registration**, you will be provided the option of receiving Mailers which will let you know when new members from your school have registered or other similar mailers. Many people appreciate these updates. You will also have the option of receiving a variety of periodic emails. The option to receive any of these email products is completely yours. If at any time, you do not wish to continue to receive any of these emails from us, you may remove yourself from the list by following the instructions at the bottom of each email. It is your responsibility to make sure we always have your current email address. If we do not, we will not be able to pass information from your friends to you (which is one of the main purposes of our site). We will also keep you advised of new functionality and new product offerings via email from time to time.
 
 ## About our Services
 
 1.  website as a **commitment** to our users, we currently provide you with access to a rich collection of online resources. These include various communications tools, online forums, personalized content and branded programming through the website’s website-based "Service."
 2.  **Service Limitations**. We will do our best to make your experience with the website Sites a pleasurable one. However, we cannot always foresee or anticipate technical or other difficulties. These difficulties may result in loss of data, personalization settings or other service interruptions. For this reason, you agree that the website’s services, including the services of our third-party service providers, are provided "AS IS." The website Sites and our third-party service providers cannot assume responsibility for the timeliness, deletion, miss-delivery or failure to store any user data, communications or personalization settings.
-3.  **Service Changes and Discontinuation.** website reserves the right to change or discontinue, temporarily or permanently, the Service at any time without notice. You agree that the website will not be liable to You or any third party for any modification or discontinuance of the Service.
-4.  **Privacy Policy.** the website respects your privacy and has developed a detailed Privacy Policy that is incorporated into this Agreement. Please take the time to read our Privacy Policy. By agreeing to these Terms, you are also accepting the terms of our Privacy Policy
+3.  **Service Changes and Discontinuation.** The website reserves the right to change or discontinue, temporarily or permanently, the Service at any time without notice. You agree that the website will not be liable to You or any third party for any modification or discontinuance of the Service.
+4.  **Privacy Policy.** The website respects your privacy and has developed a detailed Privacy Policy that is incorporated into this Agreement. Please take the time to read our Privacy Policy. By agreeing to these Terms, you are also accepting the terms of our Privacy Policy
 
 ## Terms of Use
 
@@ -40,10 +41,10 @@ For the benefit of the entire website community, and to comply with applicable l
 
 1.  The question papers generated are meant for personal and non-commercial use only. Mass distribution of these question papers in any mode is strictly prohibited.
 2.  Users are not allowed to share the question papers publicly. However, sharing them with their students privately is part of the agreement.
-3.  Users are not allowed to generate question papers with the name and logo that doesn’t belong to them. Any infringement charges thereupon will be liable on them only.
-4.  Any other use of materials on this website, including any commercial use, reproduction for purposes other than that noted above, modification, distribution, or republication without the prior written consent of myCBSEguide is strictly prohibited and may violate copyright or trademark laws.
-5.  The max limit of questions in one paper is 50 questions. It must be like real question paper with a mix of all type questions and the total marks should be around 100 marks (originally). If not so, PDF may not be generated for the solution. However, solutions can be seen inside the view link.
-6.  **You can generate a maximum 30 papers/tests per day per package**. For example, if you have a package of 100 papers, total question papers you can generate altogether in a day including all your teachers will be 30 papers/tests. Same way, if you have purchased unlimited package, you can create overall 30 question papers/tests per day per package per subject altogether including all your teachers.
+3.  Users are not allowed to generate question papers with the name and logo that doesn’t belong to them. Any infringement charges thereupon will be liable to them only.
+4.  Any other use of materials on this website, including any commercial use, reproduction for purposes other than that noted above, modification, distribution, or republication without the prior written consent of the company is strictly prohibited and may violate copyright or trademark laws.
+5.  The maximum limit of questions in one paper is 75 questions. It must be like a real question paper with a mix of all types of questions and the total marks should be around 100 marks (originally). If not, a PDF may not be generated automatically for the solution. However, you can get solutions as PDFs by clicking on the View link with the Actions button.
+6.  **You can generate a maximum 30 papers/tests per day per package**. For example, if you have a package of 100 papers, the total question papers you can generate altogether in a day including all your teachers will be 30 papers/tests. 
 
 ### Use License of Test Generator
 
@@ -60,7 +61,7 @@ For the benefit of the entire website community, and to comply with applicable l
 
 1.  This is a **non-refundable product** as the users can download it immediately after the payment. So, no refund will be issued once the product is purchased.
 2.  **In each category, one sample is available for free. We strongly recommend to go through the free sample before buying the subscription.**
-3.  However, if you have purchased a wrong product by mistake and want to replace it, you can request the same within 3 days via email to sales@website.
+3.  However, if you have purchased the wrong product by mistake and want to replace it, you can request the same within 3 days via email to support@mycbseguide.com.
 
 ## Other points
 
