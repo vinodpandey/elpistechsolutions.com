@@ -46,7 +46,7 @@ For the benefit of the entire website community, and to comply with applicable l
 5.  The maximum limit of questions in one paper is 75 questions. It must be like a real question paper with a mix of all types of questions and the total marks should be around 100 marks (originally). If not, a PDF may not be generated automatically for the solution. However, you can get solutions as PDFs by clicking on the View link with the Actions button.
 6.  **You can generate a maximum 30 papers/tests per day per package**. For example, if you have a package of 100 papers, the total question papers you can generate altogether in a day including all your teachers will be 30 papers/tests. 
 
-### Use License of Test Generator
+### User License for Test Generator
 
 1.  Permission is granted to temporarily download a copy of the materials (information or software) from the website for personal and non-commercial use only. This is the grant of a license, not a transfer of title, and under this license, you may not:
     1.  modify or copy the materials for any commercial purpose;
@@ -57,11 +57,27 @@ For the benefit of the entire website community, and to comply with applicable l
 2.  This material is available for the purpose of the assessment and evaluation of the students. Any commercial use of this material is strictly prohibited.
 3.  **This license shall automatically terminate if you violate any of these restrictions. The company shall cancel your subscription immediately and no refund shall be initiated in such cases. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.**
 
-## Refund Policy
+## Refund and Cancellation Policy {#refund-policy}
 
-1.  This is a **non-refundable product** as the users can download it immediately after the payment. So, no refund will be issued once the product is purchased.
-2.  **In each category, one sample is available for free. We strongly recommend to go through the free sample before buying the subscription.**
-3.  However, if you have purchased the wrong product by mistake and want to replace it, you can request the same within 3 days via email to support@mycbseguide.com.
+At Elpis Technology Solutions (P) Ltd, we strive to ensure a positive experience for all our customers. Please carefully review our Refund and Cancellation Policy outlined below:
+
+### Refund Policy
+
+**Non-Refundable Products:**
+
+All purchases made on our platform are final and non-refundable. Once a product is purchased and downloaded, no refunds will be issued under any circumstances.  
+
+**Free Samples:**
+
+To help you make an informed decision, we provide a free sample for every product category. We strongly recommend reviewing the free sample before purchasing a subscription or product.  
+
+**Replacement Policy:**
+
+In the event you have purchased the wrong product by mistake, you may request a replacement. Replacement requests must be made within 3 days of the purchase date. Send your replacement request via email to sales@mycbseguide.com. Include proof of purchase and details of the product purchased in your email for faster processing.  
+
+**Cancellation Policy**
+
+As this is a digital product, cancellations are not applicable once the purchase is completed. By purchasing our products, you agree to this Refund and Cancellation Policy. For further assistance, feel free to contact our support team at sales@mycbseguide.com.
 
 ## Other points
 
