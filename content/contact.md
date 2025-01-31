@@ -8,9 +8,8 @@ menu: 'main'
 ```
 Address:
 Elpis Technolgy Solutions Private Limited
-Rao Hukum Singh Complex,
-First Floor, RZP-276, Raj Nagar-2, Sector-8,
-Dwarka, New Delhi-110077
+P5/524, URBTECH NPX Tower, 
+Sector - 153, Greater Noida - 201306
 
 ```
 
