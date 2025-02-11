@@ -9,7 +9,7 @@ menu: 'main'
 Address:
 Elpis Technolgy Solutions Private Limited
 P5/524, URBTECH NPX Tower, 
-Sector - 153, Greater Noida - 201306
+Sector - 153, Noida - 201310
 
 ```
 
